@@ -14,7 +14,6 @@ n = len(nodos)
 
 for i in range(n):
     red.add_edge(nodos[i], nodos[(i + 1) % n])
-    red.add_edge(nodos[i], nodos[(i + 2) % n])
 
 
 for nodo in nodos:
