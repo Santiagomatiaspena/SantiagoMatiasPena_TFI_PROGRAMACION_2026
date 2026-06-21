@@ -9,5 +9,5 @@ PROGRAMACIÓN
 -PseInt
 -Python
 ## Descripción:
-Del ejercicio 1 al 8 y 10 se utilizo el programa PseInt para su creacion
+Del ejercicio 1 al 8 y 10 se utilizo el programa PseInt para su creacion.
 El ejercicio 9 fue creado con Python.
